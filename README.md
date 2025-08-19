@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/">
+  <a href="[https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/in/atharva-meherkar-16119a328/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
