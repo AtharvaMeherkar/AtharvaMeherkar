@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/1200x300/1e1e1e/36a2ea?text=Hi,%20I'm%20Atharva%20Meherkar" alt="Hi, I'm Atharva Meherkar"/>
+  <img src="Atharva Meherkar.png" alt="Hi, I'm Atharva Meherkar"/>
 </div>
 
 <div align="center">
